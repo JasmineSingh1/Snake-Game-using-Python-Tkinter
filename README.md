@@ -29,9 +29,10 @@ Snake-Game-using-Python-Tkinter/
 
 ---
 
-🎮 Controls
-    Key	          Action
-↑ Up Arrow      Move Up
-↓ Down Arrow	Move Down
-← Left Arrow	Move Left
-→ Right Arrow	Move Right
+## 🎮 Controls
+| Key            | Action     |
+|----------------|------------|
+| ↑ Up Arrow     | Move Up    |
+| ↓ Down Arrow   | Move Down  |
+| ← Left Arrow   | Move Left  |
+| → Right Arrow  | Move Right |
