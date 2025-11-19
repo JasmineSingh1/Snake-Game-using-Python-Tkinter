@@ -25,6 +25,7 @@ Snake-Game-using-Python-Tkinter/
 |    └── purple_food.jpg
 ├── snake_game.py
 └── README.md    
+```
 
 ---
 
